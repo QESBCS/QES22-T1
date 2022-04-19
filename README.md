@@ -2,6 +2,8 @@
 
 This page will answer some Frequently Asked Questions.
 
+---
+
 # General Questions
 
 ### What is Paimon-ey?
@@ -31,8 +33,6 @@ You can scan your ID Card and we will check whether it is the same with your acc
 ### Who are the founders of Paimon-ey?
 
 Oscar Yeung Yu Hei
-
-Tony To Chun Kit
 
 Ricky Au Yeung Chun
 
