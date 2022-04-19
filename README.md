@@ -2,12 +2,6 @@
 
 This page will answer some Frequently Asked Questions.
 
----
-
-# Contents
-
----
-
 # General Questions
 
 ### What is Paimon-ey?
