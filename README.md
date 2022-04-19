@@ -58,7 +58,7 @@ abcdefg@gmail.com
 
 ***Yes.*** When the data you provided sends to us for credit rating checking, data is encrypted( figure shown as below). This makes your data secure and protected.
 
-![ae43904b-604b-45ce-b5e5-f38fea763c9f.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acb8eb27-fd4e-4e2f-b149-e519d6732ffe/ae43904b-604b-45ce-b5e5-f38fea763c9f.jpg)
+![End-to-End Encryption Diagram](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acb8eb27-fd4e-4e2f-b149-e519d6732ffe/ae43904b-604b-45ce-b5e5-f38fea763c9f.jpg)
 
 ### Does Paimon-ey sell your data for profit?
 
