@@ -34,9 +34,9 @@ You can scan your ID Card and we will check whether it is the same with your acc
 
 Oscar Yeung Yu Hei
 
-Ricky Au Yeung Chun
-
 Tony To Chun Kit
+
+Ricky Au Yeung Chun
 
 Asher Lam Tsz Fai
 
